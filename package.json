@@ -1,5 +1,5 @@
 {
-  "name": "my-vue-infinity-scroll",
+  "name": "infinity-scroll-vue3",
   "version": "1.0.0",
   "description": "A Vue.js component for infinite scrolling",
   "main": "dist/my-vue-infinity-scroll.common.js",
